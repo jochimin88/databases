@@ -7,5 +7,5 @@ This Script install PostgresSQL and PgAdmin4 for administration.
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/jochimin88)
+- [@jochimin](https://github.com/jochimin88/databases)
 
